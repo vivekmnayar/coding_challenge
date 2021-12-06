@@ -1,0 +1,19 @@
+2021-12-06 00:14:00,765,765 root ERROR Debugging
+2021-12-06 00:14:00,765,765 root INFO Source File Path: /Users/vivekmuralidharan/Documents/ManU_Life/Engineering Test Files
+2021-12-06 00:14:00,765,765 root INFO Target File: /Users/vivekmuralidharan/Documents/ManU_Life/Target_File/Combined.csv
+2021-12-06 00:14:00,765,765 root INFO 
+********************
+Combining Source Files...
+2021-12-06 00:14:00,777,777 root INFO Source Files Combined Successfully!
+********************
+2021-12-06 00:14:00,777,777 root INFO 
+********************
+Removing Duplicate Entries...
+2021-12-06 00:14:00,779,779 root INFO Duplicate Entries Removed Successfully!
+********************
+2021-12-06 00:14:00,779,779 root INFO 
+********************
+Generating Combined.csv file...
+2021-12-06 00:14:00,781,781 root INFO Combined.csv Generated Successfully!
+/Users/vivekmuralidharan/Documents/ManU_Life/Target_File/Combined.csv
+********************
